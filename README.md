@@ -6,7 +6,7 @@ Este programa utiliza datos aleatorios para generar diferentes tipos de gráfico
 
 1. Asegúrate de tener Python instalado.
 2. Instala las bibliotecas necesarias ejecutando `pip install numpy matplotlib`.
-3. Ejecuta el script `generador_graficos.py`.
+3. Ejecuta el script `EjemploGraficas.py`.
 
 ## Tipos de Gráficos
 
@@ -24,7 +24,7 @@ Descomenta el bloque de código para visualizar la distribución de las califica
 
 ## Archivos en el Repositorio
 
-- `generador_graficos.py`: Código fuente del programa.
+- `EjemploGraficas.py`: Código fuente del programa.
 - `README.md`: Este archivo que proporciona información sobre el programa.
 
 ## Contribuciones y Problemas
